@@ -1,0 +1,14 @@
+C:\slagprac\slag\sivasree\doubts\ArraysPrac\obj\Debug\net8.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\slagprac\slag\sivasree\doubts\ArraysPrac\obj\Debug\net8.0\arrays.AssemblyInfoInputs.cache
+C:\slagprac\slag\sivasree\doubts\ArraysPrac\obj\Debug\net8.0\arrays.AssemblyInfo.cs
+C:\slagprac\slag\sivasree\doubts\ArraysPrac\obj\Debug\net8.0\arrays.csproj.CoreCompileInputs.cache
+C:\slagprac\slag\sivasree\doubts\ArraysPrac\bin\Debug\net8.0\arrays.exe
+C:\slagprac\slag\sivasree\doubts\ArraysPrac\bin\Debug\net8.0\arrays.deps.json
+C:\slagprac\slag\sivasree\doubts\ArraysPrac\bin\Debug\net8.0\arrays.runtimeconfig.json
+C:\slagprac\slag\sivasree\doubts\ArraysPrac\bin\Debug\net8.0\arrays.dll
+C:\slagprac\slag\sivasree\doubts\ArraysPrac\bin\Debug\net8.0\arrays.pdb
+C:\slagprac\slag\sivasree\doubts\ArraysPrac\obj\Debug\net8.0\arrays.dll
+C:\slagprac\slag\sivasree\doubts\ArraysPrac\obj\Debug\net8.0\refint\arrays.dll
+C:\slagprac\slag\sivasree\doubts\ArraysPrac\obj\Debug\net8.0\arrays.pdb
+C:\slagprac\slag\sivasree\doubts\ArraysPrac\obj\Debug\net8.0\arrays.genruntimeconfig.cache
+C:\slagprac\slag\sivasree\doubts\ArraysPrac\obj\Debug\net8.0\ref\arrays.dll

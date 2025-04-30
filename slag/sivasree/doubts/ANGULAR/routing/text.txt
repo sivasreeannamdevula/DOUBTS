@@ -1,0 +1,24 @@
+in  package.json to use routing we need this
+   "@angular/router": "~13.3.0",
+
+
+1.define routes array in seperate .ts/app.modele.ts
+2.imports [routerModule.forRoot(routes)]
+3.<route-outlet>
+
+
+routerLink----links html element to the route
+routerLinkActive----used to add/remove css classes for element on which routerLink is
+                   defined,if child route is active then all its parent routes are also active so to avoid it we use
+                   [routerLinkActiveOptons]:{exact:true}
+
+
+
+<!-- <a  href="#"  (click)="OnNavigation()" >Home</a> --> why not working?
+
+
+
+
+doubts?
+why routeLinkActiveOptions is not working as expected(p=child to parent)
+why relative is not working in navigate

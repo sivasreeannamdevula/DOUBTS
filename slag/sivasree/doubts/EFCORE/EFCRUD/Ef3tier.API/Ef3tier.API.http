@@ -1,0 +1,6 @@
+@Ef3tier.API_HostAddress = http://localhost:5079
+
+GET {{Ef3tier.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

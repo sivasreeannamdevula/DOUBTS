@@ -1,0 +1,7 @@
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.API\obj\Debug\net8.0\Ef3tier.API.csproj.AssemblyReference.cache
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.API\obj\Debug\net8.0\Ef3tier.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.API\obj\Debug\net8.0\Ef3tier.API.AssemblyInfoInputs.cache
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.API\obj\Debug\net8.0\Ef3tier.API.AssemblyInfo.cs
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.API\obj\Debug\net8.0\Ef3tier.API.csproj.CoreCompileInputs.cache
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.API\obj\Debug\net8.0\Ef3tier.API.MvcApplicationPartsAssemblyInfo.cs
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.API\obj\Debug\net8.0\Ef3tier.API.MvcApplicationPartsAssemblyInfo.cache

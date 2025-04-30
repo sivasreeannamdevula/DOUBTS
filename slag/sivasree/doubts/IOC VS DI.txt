@@ -1,0 +1,19 @@
+General ga IOC means giving control to someone else.
+In WebAPI, if we create objects using new keyword then it is our responsibility to manage them...which is an extra task to us. So we use DI which helps us to create and manage objects...an dhence through DI we achieved IOC.
+
+
+IOC is a principle that is achieved using DI.
+
+
+
+
+
+
+
+
+
+
+IOC is like a restaurant, where the chef (component) doesn't control the ingredients (dependencies). Instead, the ingredients are provided by the restaurant owner (IoC container).
+
+
+DI is like a specific way of delivering the ingredients to the chef, such as through a kitchen door (constructor injection) or a pantry (property injection).

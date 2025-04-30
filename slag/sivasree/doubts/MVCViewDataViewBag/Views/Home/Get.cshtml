@@ -1,0 +1,38 @@
+@* @{    //by adding in this way we can add that shared _layout.cshtml file only to this Get.cshtml file.
+    Layout="~/Views/Shared/_Layout.cshtml";    //here we have to use relative path inroder to work.
+} *@
+<h1>USING VIEWDATA</h1>
+@{
+    var emp=ViewData["key2"] as Employee;
+}
+<p>ID:@emp.ID</p>
+<P>NAME:@emp.Name</P>
+<p>TYPE:@emp.type</p>
+<p>SALARY:@emp.salary</p>
+<p>@ViewData["key1"]</p>
+<p>I can be accessed directly as i am string and no need to convert explicitly to object @ViewData["key1"]</p>
+<br>
+<br>
+
+
+
+
+<h1>USING VIEWBAG</h1>
+@{
+    var emp2=ViewBag.Employee;
+}
+<p>ID:@emp2.ID</p>
+<P>NAME:@emp2.Name</P>
+<p>TYPE:@emp2.type</p>
+<p>SALARY:@emp2.salary</p>
+<br>
+<p>@ViewBag.Header</p>
+
+
+
+
+@* this is used to inject js to specific files only *@
+@* @section Scripts{
+    <script src="~/js/custom.js">
+    </script>
+} *@

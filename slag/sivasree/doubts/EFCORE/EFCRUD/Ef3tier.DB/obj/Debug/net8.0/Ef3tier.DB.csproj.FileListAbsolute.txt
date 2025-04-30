@@ -1,0 +1,11 @@
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.DB\bin\Debug\net8.0\Ef3tier.DB.deps.json
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.DB\bin\Debug\net8.0\Ef3tier.DB.dll
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.DB\bin\Debug\net8.0\Ef3tier.DB.pdb
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.DB\obj\Debug\net8.0\Ef3tier.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.DB\obj\Debug\net8.0\Ef3tier.DB.AssemblyInfoInputs.cache
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.DB\obj\Debug\net8.0\Ef3tier.DB.AssemblyInfo.cs
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.DB\obj\Debug\net8.0\Ef3tier.DB.csproj.CoreCompileInputs.cache
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.DB\obj\Debug\net8.0\Ef3tier.DB.dll
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.DB\obj\Debug\net8.0\refint\Ef3tier.DB.dll
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.DB\obj\Debug\net8.0\Ef3tier.DB.pdb
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.DB\obj\Debug\net8.0\ref\Ef3tier.DB.dll

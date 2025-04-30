@@ -1,0 +1,43 @@
+
+    <div class="white-body">
+        <div class="inner-greycontainer">
+              <div class="left">
+                   <div class="top"></div>
+                   <div class="middle"></div>
+                   <div class="bottom"></div>
+              </div>
+              
+              <div class="right">
+                <div>
+                    <table>
+                        <thead>
+                            <tr class="MyTasks">
+                                <th colspan="5">Transaction Types(My Tasks)</th>
+                                
+                            </tr>
+                            <tr class="filter">
+                                <th colspan="5" >Filter</th>
+                            </tr>
+                            <tr class="heading">
+                                <th>TransactionType</th>
+                                <th>DueDate</th>
+                                <th>DueDays</th>
+                                <th>Category</th>
+                                <th>Priority</th>
+                            </tr>
+                        </thead>
+                        <tbody  >
+                            
+                            <tr *ngFor="let prod of filteredProducts()">
+                                <td>{{prod.TransactionType}}</td>
+                                <td>{{prod.DueDate}}</td>
+                                <td>{{prod.DueDays}}</td>
+                                <td>{{prod.Category}}</td>
+                                <td>{{prod.Priority}}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+              </div>
+        </div>
+</div>

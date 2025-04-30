@@ -1,0 +1,83 @@
+
+
+  <!-- if we do like below then we will get the form html code,to get the form in the json format we use ngForm-->
+  <!-- <form (ngSubmit)="RegistrationSubmitted(templateReference)" #templateReference> -->
+    <div class="form-container">
+      
+      <form (ngSubmit)="RegistrationSubmitted(templateReference)" #templateReference="ngForm">4
+        <!-- ngFrom.touched is not accaessible so use templateReference.touched -->
+         <!-- usecase of whether form touched or not if touched we are changing the heading color to yellow -->
+        <h2 [ngClass]="{'heading':templateReference.touched}">Registration Form</h2>
+          <div class="input-group">
+              <label for="firstname">First Name</label>
+              <input type="text" id="firstname" name="firstname" [(ngModel)]="firstname" required #ref="ngModel">
+              <!-- to log error messages use *ngIf -->
+              <small style="color:red" *ngIf="ref.invalid && ref.touched">*firstname is required</small>
+              <small *ngIf="templateReference.controls['firstname'].invalid && templateReference.controls['firstname'].touched">invalid value</small>
+              <span *ngIf="firstname">Entered:{{firstname}}</span>
+          </div>
+
+          <div class="input-group">              
+            <label for="lastname">Last Name</label>
+              <input type="text" id="lastname" name="lastname" ngModel>
+          </div>
+
+          <div class="input-group">
+              <label for="dob">Date of Birth</label>
+              <input type="date" id="dob" name="dob" ngModel>
+          </div>
+
+          <div class="input-group">
+              <label for="phone">Phone Number</label>
+              <input type="tel" id="phone" name="phone" ngModel>
+          </div>
+
+          <div class="input-group">
+              <label for="country">Country</label>
+              <select id="country" name="country" ngModel>
+                  <option value="">Select Country</option>
+                  <option value="USA">USA</option>
+                  <option value="Canada">Canada</option>
+                  <option value="UK">UK</option>
+                  <option value="Australia">Australia</option>
+                  <option value="India">India</option>
+              </select>
+          </div>
+
+          <div class="input-group">
+              <label>Gender</label>
+              <div class="radio-group">
+                  <input type="radio" id="male" name="gender" value="Male" ngModel>
+                  <label for="male">Male</label>
+                  <input type="radio" id="female" name="gender" value="Female" ngModel>
+                  <label for="female">Female</label>
+                  <input type="radio" id="other" name="gender" value="Other" ngModel>
+                  <label for="other">Other</label>
+              </div>
+          </div>
+
+         <div ngModelGroup="AddressGroup" #address="ngModelGroup">
+            <div class="input-group">
+                <label for="address">Address</label>
+                <input type="text" id="address" name="address" ngModel required>
+            </div>
+  
+            <div class="input-group">
+                <label for="city">City</label>
+                <input type="text" id="city" name="city" ngModel>
+            </div>
+  
+            <div class="input-group">
+                <label for="postalcode">Postal Code</label>
+                <input type="text" id="postalcode" name="postalcode" ngModel>
+            </div>
+            <small *ngIf="address.invalid && address.touched">some address fields are not entered</small>
+            <!-- checkbox value at first "" but to make it false whther the user clicks on it or not we assign false to it -->
+         <input type="checkbox" name="checkbo"   [(ngModel)]="isAgreed">
+         </div>
+          <button type="submit" [disabled]="!templateReference.valid">Register</button>
+      </form>
+  </div>
+
+  <div>{{firstname}}</div>
+  <div>{{lastname}}</div>

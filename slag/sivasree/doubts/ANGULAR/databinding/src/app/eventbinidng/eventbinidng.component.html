@@ -1,0 +1,9 @@
+<!-- whenever an evnet occurs an event object($event) gets created 
+ in this event object event.target.value contains the entered value-->
+
+ <!-- EVENT BINDING ---THE DATA IS FLOWING FROM HTML PAGE TO COMPONENT CLASS -->
+<input (input)="method($event)">
+<p>{{name}}</p>
+<button (click)="increment()">+</button>
+<p>{{a}}</p>
+<button (click)="decrement()">-</button>

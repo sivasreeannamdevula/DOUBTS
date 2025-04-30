@@ -1,0 +1,14 @@
+.header
+{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+   
+}
+.body
+{
+    background-color:  rgba(192, 185, 185, 0.712) ;
+    display: flex;
+    justify-content: center;
+   
+}

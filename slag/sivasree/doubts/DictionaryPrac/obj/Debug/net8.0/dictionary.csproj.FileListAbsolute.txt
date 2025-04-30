@@ -1,0 +1,14 @@
+C:\slagprac\slag\sivasree\doubts\dictionary\bin\Debug\net8.0\dictionary.exe
+C:\slagprac\slag\sivasree\doubts\dictionary\bin\Debug\net8.0\dictionary.deps.json
+C:\slagprac\slag\sivasree\doubts\dictionary\bin\Debug\net8.0\dictionary.runtimeconfig.json
+C:\slagprac\slag\sivasree\doubts\dictionary\bin\Debug\net8.0\dictionary.dll
+C:\slagprac\slag\sivasree\doubts\dictionary\bin\Debug\net8.0\dictionary.pdb
+C:\slagprac\slag\sivasree\doubts\dictionary\obj\Debug\net8.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\slagprac\slag\sivasree\doubts\dictionary\obj\Debug\net8.0\dictionary.AssemblyInfoInputs.cache
+C:\slagprac\slag\sivasree\doubts\dictionary\obj\Debug\net8.0\dictionary.AssemblyInfo.cs
+C:\slagprac\slag\sivasree\doubts\dictionary\obj\Debug\net8.0\dictionary.csproj.CoreCompileInputs.cache
+C:\slagprac\slag\sivasree\doubts\dictionary\obj\Debug\net8.0\dictionary.dll
+C:\slagprac\slag\sivasree\doubts\dictionary\obj\Debug\net8.0\refint\dictionary.dll
+C:\slagprac\slag\sivasree\doubts\dictionary\obj\Debug\net8.0\dictionary.pdb
+C:\slagprac\slag\sivasree\doubts\dictionary\obj\Debug\net8.0\dictionary.genruntimeconfig.cache
+C:\slagprac\slag\sivasree\doubts\dictionary\obj\Debug\net8.0\ref\dictionary.dll

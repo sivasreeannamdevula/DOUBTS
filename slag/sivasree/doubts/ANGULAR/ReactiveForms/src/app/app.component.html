@@ -1,0 +1,116 @@
+<div class="container">
+  <h2>Registration Form</h2>
+  <form (ngSubmit)="Onsubmission()" [formGroup]="reactiveForm" [ngClass]="formSTATUS">
+      <div class="input-group">
+          <label for="firstname">First Name</label>
+          <input type="text" id="firstname" [formControlName]="'firstname'">
+          <!-- to access formcontrol in reactive form -->
+          <small *ngIf="reactiveForm?.get('firstname')?.errors?.['required'] ">
+            *firstname is required</small>
+            <!-- logging custom validator error messages  -->
+            <small *ngIf="reactiveForm?.get('firstname')?.errors?.['customValidator'] ">
+                *@  not is required</small>
+                <small *ngIf="reactiveForm?.get('firstname')?.errors?.['alreadyTaken'] ">
+                    *alreadyTaken</small>
+      </div>
+
+      <div class="input-group">
+          <label for="lastname">Last Name</label>
+          <input type="text" id="lastname" formControlName="lastname">
+          <small *ngIf="reactiveForm?.get('lastname')?.invalid ">
+            *firstname is required</small>
+      </div>
+
+      <div class="input-group">
+          <label for="phone">Phone Number</label>
+          <input type="tel" id="phone" formControlName="phone">
+      </div>
+
+      <div class="input-group">
+          <label for="dob">Date of Birth</label>
+          <input type="date" id="dob" formControlName="dob">
+      </div>
+
+      <div class="input-group">
+          <label for="country">Country</label>
+          <select id="country" formControlName="country">
+              <option value="" disabled selected>Select your country</option>
+              <option value="usa">USA</option>
+              <option value="uk">UK</option>
+              <option value="canada">Canada</option>
+              <option value="india">India</option>
+              <option value="australia">Australia</option>
+          </select>
+      </div>
+
+      <div class="input-group">
+          <label>Gender</label>
+          <div class="radio-group">
+              <input type="radio" id="male" value="male" formControlName="gender">
+              <label for="male">Male</label>
+              
+              <input type="radio" id="female" value="female" formControlName="gender">
+              <label for="female">Female</label>
+
+              <input type="radio" id="other" value="other" formControlName="gender">
+              <label for="other">Other</label>
+          </div>
+      </div>
+
+      <div formGroupName="addr">
+        <div class="input-group">
+          <label for="address">Address</label>
+          <textarea id="address"  rows="3" formControlName="address"></textarea>
+      </div>
+
+      <div class="input-group">
+          <label for="city">City</label>
+          <input type="text" id="city" formControlName="city">
+          <!-- to access inside formgroup -->
+          <small *ngIf="reactiveForm.get('addr.city')?.valid">*required</small>
+      </div>
+
+      <div class="input-group">
+          <label for="postalcode">Postal Code</label>
+          <input type="text" id="postalcode" formControlName="postal">
+      </div>
+      </div>
+
+      <!-- formArray :collection of formControls-->
+       <div formArrayName="skills" *ngFor="let ctrl of skills.controls; let i =index">
+        <!-- in skills array we have to access controls array for that we used ['controls'] -->
+        <input type="text" placeholder="Add skill...." 
+        
+        
+         [formControlName]="i">
+         <button style="background-color: red; width: 63px;" type="button" (click)="Delete(i)">Delete</button>
+        </div>
+        <button type="button" (click)="AddSkill()">Add Skill</button>
+      
+        <!-- FormGroup --an array of formGroups which are a collection of form controls -->
+        <div formArrayName="experience">
+        <!-- here index is a group i.e; we are iteratig over a group of form group -->
+            <div *ngFor="let exp of experience.controls; let i =index" [formGroupName]="i">
+                <section class="experience-section">
+                    
+                    <div class="experience-entry">
+                      <label for="company">Company Name</label>
+                      <!-- formContro lName--binding to formctrls -->
+                      <input type="text" id="company"  placeholder="e.g., Google" formControlName="companyName">
+                  
+                      <label for="start">Start Date</label>
+                      <input type="date" id="start" formControlName="start">
+                  
+                      <label for="end">End Date</label>
+                      <input type="date" id="end" formControlName="end">
+                    </div>
+                   <button type="button" style="background-color: red; width: 63px;" (click)="DeleteExperience(i)" >Delete</button>
+                  </section>
+            </div>
+            <button type="button" (click)="AddExperience()">AddExperience</button>
+        </div>
+      <!-- to read form values -->
+      <!-- [disabled]="reactiveForm.invalid" -->
+      <button type="submit" (click)="onclick()">Register</button>
+  </form>
+</div>

@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            // "projectPath": "C:\\slagprac\\slag\\sivasree\\doubts\\Middleware\\Middleware.csproj",
+            "name": "C#: Launch Startup Project",
+            "type": "dotnet",
+            "request": "launch"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+The point that you need to remember is, while selecting a view, it is the responsibility of the controller to pass the model data.
+
+It is accessible by both controller and view.
+It can be used to pass data from controller action methods to a view.
+It can also be used by a view to display data on a page (HTML output).
+
+A request to a view can only be made from a controller’s action method.
+
+Is the component which will interact with both Models and views.
+Can access and use the model class to pass the data to the views.

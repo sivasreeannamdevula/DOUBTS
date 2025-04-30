@@ -1,0 +1,14 @@
+C:\slagprac\slag\sivasree\doubts\EventsUsingDelegates\bin\Debug\net8.0\EventsUsingDelegates.exe
+C:\slagprac\slag\sivasree\doubts\EventsUsingDelegates\bin\Debug\net8.0\EventsUsingDelegates.deps.json
+C:\slagprac\slag\sivasree\doubts\EventsUsingDelegates\bin\Debug\net8.0\EventsUsingDelegates.runtimeconfig.json
+C:\slagprac\slag\sivasree\doubts\EventsUsingDelegates\bin\Debug\net8.0\EventsUsingDelegates.dll
+C:\slagprac\slag\sivasree\doubts\EventsUsingDelegates\bin\Debug\net8.0\EventsUsingDelegates.pdb
+C:\slagprac\slag\sivasree\doubts\EventsUsingDelegates\obj\Debug\net8.0\EventsUsingDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\slagprac\slag\sivasree\doubts\EventsUsingDelegates\obj\Debug\net8.0\EventsUsingDelegates.AssemblyInfoInputs.cache
+C:\slagprac\slag\sivasree\doubts\EventsUsingDelegates\obj\Debug\net8.0\EventsUsingDelegates.AssemblyInfo.cs
+C:\slagprac\slag\sivasree\doubts\EventsUsingDelegates\obj\Debug\net8.0\EventsUsingDelegates.csproj.CoreCompileInputs.cache
+C:\slagprac\slag\sivasree\doubts\EventsUsingDelegates\obj\Debug\net8.0\EventsUsingDelegates.dll
+C:\slagprac\slag\sivasree\doubts\EventsUsingDelegates\obj\Debug\net8.0\refint\EventsUsingDelegates.dll
+C:\slagprac\slag\sivasree\doubts\EventsUsingDelegates\obj\Debug\net8.0\EventsUsingDelegates.pdb
+C:\slagprac\slag\sivasree\doubts\EventsUsingDelegates\obj\Debug\net8.0\EventsUsingDelegates.genruntimeconfig.cache
+C:\slagprac\slag\sivasree\doubts\EventsUsingDelegates\obj\Debug\net8.0\ref\EventsUsingDelegates.dll

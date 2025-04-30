@@ -1,0 +1,16 @@
+<p>name is {{name}}</p>
+<p>age is {{age}}</p>
+<p>price is {{price}}</p>
+<p>discount is {{discount}}</p>
+
+<!-- using object in stringinterpolation -->
+<p>{{product.name}}</p>
+<!-- we can do calculations inside string interpolation -->
+<p>{{product.cost + 700}}</p>
+<p>{{product.price }}</p>
+<p>{{product.cost - product.discount}}</p>
+
+<!-- calling function -->
+<p>{{ getName() }}</p>
+<!-- we can use ternary operator inside string interpolation -->
+<p>{{product.condition?'true exsits':'false'}}</p>

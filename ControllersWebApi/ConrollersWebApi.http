@@ -1,6 +1,0 @@
-@ConrollersWebApi_HostAddress = http://localhost:5037
-
-GET {{ConrollersWebApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

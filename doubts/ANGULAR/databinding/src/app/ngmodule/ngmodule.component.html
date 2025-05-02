@@ -1,0 +1,5 @@
+<!-- <input [value]="name" (click)="clicked($event)" >
+<p>{{name}}</p> -->
+
+
+<input [(ngModel)]="name" (ngModelChange)="triggered($event)">

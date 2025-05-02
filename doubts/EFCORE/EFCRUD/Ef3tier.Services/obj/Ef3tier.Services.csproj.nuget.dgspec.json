@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\slagprac\\slag\\sivasree\\doubts\\EFCORE\\EFCRUD\\Ef3tier.Services\\Ef3tier.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\slagprac\\slag\\sivasree\\doubts\\EFCORE\\EFCRUD\\Ef3tier.DB\\Ef3tier.DB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\slagprac\\slag\\sivasree\\doubts\\EFCORE\\EFCRUD\\Ef3tier.DB\\Ef3tier.DB.csproj",
+        "projectName": "Ef3tier.DB",
+        "projectPath": "C:\\slagprac\\slag\\sivasree\\doubts\\EFCORE\\EFCRUD\\Ef3tier.DB\\Ef3tier.DB.csproj",
+        "packagesPath": "C:\\Users\\sivasri.annamdevula\\.nuget\\packages\\",
+        "outputPath": "C:\\slagprac\\slag\\sivasree\\doubts\\EFCORE\\EFCRUD\\Ef3tier.DB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sivasri.annamdevula\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\slagprac\\slag\\sivasree\\doubts\\EFCORE\\EFCRUD\\Ef3tier.Services\\Ef3tier.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\slagprac\\slag\\sivasree\\doubts\\EFCORE\\EFCRUD\\Ef3tier.Services\\Ef3tier.Services.csproj",
+        "projectName": "Ef3tier.Services",
+        "projectPath": "C:\\slagprac\\slag\\sivasree\\doubts\\EFCORE\\EFCRUD\\Ef3tier.Services\\Ef3tier.Services.csproj",
+        "packagesPath": "C:\\Users\\sivasri.annamdevula\\.nuget\\packages\\",
+        "outputPath": "C:\\slagprac\\slag\\sivasree\\doubts\\EFCORE\\EFCRUD\\Ef3tier.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sivasri.annamdevula\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\slagprac\\slag\\sivasree\\doubts\\EFCORE\\EFCRUD\\Ef3tier.DB\\Ef3tier.DB.csproj": {
+                "projectPath": "C:\\slagprac\\slag\\sivasree\\doubts\\EFCORE\\EFCRUD\\Ef3tier.DB\\Ef3tier.DB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

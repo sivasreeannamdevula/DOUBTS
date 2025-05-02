@@ -1,0 +1,55 @@
+in normal forms when we submit the form an api request happens and reloading takes place
+to avoid this in angular we use TEMPLATE DRIVEN/REACTIVE FORMS(if reloading took place then whole angular app restarts)
+
+
+
+import FormsModule in app.module.ts as it contains all the necessary methods and attributes,directives
+
+(ngSubmit)----- is an event that gets triggered when we submit the form
+ngForm------- a directive in forms module that tells that we are using 
+              TEMPLATE DRIVEN FORM and also stores the reference to json format of form
+
+<form>       by defualt it is template driven form though we didnt mention ngForm explicitly
+
+
+bydefault controls,values are empty, so to see those mark every element in form with name & ngModel(available in 
+FormsModule that tells formscontrol to include in ngForm controls)
+
+controls contain the each field as an FormControl object that is it has many properties like touched,dirty,status,value...
+value contains just the values as an object
+
+
+
+[ngForm-Controls for each formelement as well as whole form
+value:
+touched:foucussed or not using mouse
+untouched:foucussed or not using mouse
+dirty:input value changed from previous value
+valid:validation is true or not
+status:
+]
+
+
+
+
+
+
+
+we can add validatons like required,email 
+/* we can add custom css like this */
+input.ng-valid.ng-touched
+{
+    border:solid 2px red;
+}
+
+
+ngForm---js object of form
+ngModel--js object of each control
+ngModelGroup--js of group of controls
+
+we can use template reference to display error messages
+
+
+for setvalue we have to send the whole object but for patchvalue only the required things can be passed
+
+reset===resets the state(ng-touched,ng-dirty...) and form controls to null/empty

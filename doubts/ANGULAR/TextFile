@@ -1,0 +1,44 @@
+//correctly add the path to environment variables incase of errors
+//to get corresponding versions
+node -v / node --version
+
+//npm is required to download packages
+npm -v
+
+//installs angular cli---manam manual ga motham folder structure badhulu easy ga setup ivvadam kosam we need cli
+npm install -g @angular/cli
+npm install -g @angular/cli@13.3.5
+//to see whether cli is downloaded or not
+ng v
+
+//to create new workspace with an application
+ng new APP_NAME 
+//to run, --open to open the browser
+ng serve --open  (or) npm start
+ng build
+
+
+//creates only workspace no application in it.
+ng new #name --createapplication=false
+//creates an application in the workspace
+ng g application #appname
+//creates an application in the workspace
+ng g library #libname
+//creates a component
+ng g component #componenetname
+
+
+
+
+by default parent styles vi child ki apply avvavu if apply avvali antte viewencapsulation.none pettali
+by default viewencapsulation.emulated unttadhi
+viewencapsulation.shadowdum antte global styles apply avvavu
+
+
+
+
+
+
+
+
+<!-- we cannot have 2 structural directives on the same html element -->

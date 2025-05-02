@@ -1,0 +1,7 @@
+2024-10-02T11:32:02.6312292+05:30  [INF] Now listening on: "http://localhost:5079" (d826f4b8)
+2024-10-02T11:32:02.6343287+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-10-02T11:32:02.6345610+05:30  [INF] Hosting environment: "Development" (bc5a1a4e)
+2024-10-02T11:32:02.6345785+05:30  [INF] Content root path: "C:\slagprac\slag\sivasree\doubts\LoggingInfo" (cc26f24e)
+2024-10-02T11:32:31.1835320+05:30 0HN72KV6KIOPR:00000001 [WRN] Failed to determine the https port for redirect. (ca76cc21)
+2024-10-02T11:32:39.3292625+05:30 0HN72KV6KIOPR:00000004 [INF] API started at:02-10-2024 11:32:39 (0d8362b5)
+2024-10-02T11:33:40.4214581+05:30  [INF] Application is shutting down... (90f52c38)

@@ -1,0 +1,63 @@
+SET UP:
+
+install EnitityFramework.SqlServer          //tells that we are gng to connect to ms sql,similarily we also have .SQLite
+install EntityFramework.Design              //tells we are using code first approach
+install EntityFramework.Tools              //to use commands such as add migration,remove etc
+
+
+DbContext setup:
+
+DbContextOptions<#ClassName> options:base(options){}
+Approach 1:
+  we can get our connectionstring from appsettings.json, for that we have to inject in program.cs(
+  builder.Services.AddDbContext<#ClassName>(options =>
+  {
+     options.UseSqlServer(builder.Configuration.GetConnectionString("#appsettingsName"))
+  }
+
+Approach 2:
+in repo layer itself we can configure connection string:
+ 1.initialise a connectionstring prop(public string connection{get;set;})
+ 2.in ctor initialise the connectionstring
+ 3.in onconfiguring set the connection to sqlserver
+
+
+
+
+Relationships:
+1-1/many-1:
+  1.without using fluent api/data annotations
+        in this ID/ClassnameId is treated as primary key by default
+        just maintain relationship(i.e; add navigation prop and foreignkey for 1-1/many-1 , list in both classes for many-many) 
+
+  2.using data annotations
+      [key]
+      [foreignkey("id")]
+
+  3.using fluent api
+         modelbuilder(hasone-withone , hasone-withmany , hasmany-withmany)
+         modelbuilderforeignkey()
+         modelbuilder.usingentity create junction table explicitly
+
+many-many:
+    1.without fluentapi/data annotations
+    2.using fluent api
+   if in junction table we have to add extra column then create junction table explicitly and map using manytoone
+       modelBuilder.Entity<StudentCourse>()
+                .HasOne(sc => sc.Student)
+                .WithMany(s => s.StudentCourses) // Navigation Property in Student
+                .HasForeignKey(sc => sc.StudentId); //Foreign Key
+            modelBuilder.Entity<StudentCourse>()
+                .HasOne(sc => sc.Course)
+                .WithMany(c => c.StudentCourses) // Navigation Property in Course
+                .HasForeignKey(sc => sc.CourseId); //Foreign Key
+
+
+
+if a table contains three foreign keys[WorkspaceAccess] from 3 different tables[users,workspaces,accessroles]
+ then create this table explicitly and maintain many-one with each primary key table
+
+
+// Sets the UserId property in the Passport entity as the foreign key that references the User entity's primary key.
+                .HasForeignKey<Passport>(p => p.UserId); 
+

@@ -1,0 +1,14 @@
+C:\slagprac\slag\sivasree\doubts\ildasm\non-generic\bin\Debug\net8.0\non-generic.exe
+C:\slagprac\slag\sivasree\doubts\ildasm\non-generic\bin\Debug\net8.0\non-generic.deps.json
+C:\slagprac\slag\sivasree\doubts\ildasm\non-generic\bin\Debug\net8.0\non-generic.runtimeconfig.json
+C:\slagprac\slag\sivasree\doubts\ildasm\non-generic\bin\Debug\net8.0\non-generic.dll
+C:\slagprac\slag\sivasree\doubts\ildasm\non-generic\bin\Debug\net8.0\non-generic.pdb
+C:\slagprac\slag\sivasree\doubts\ildasm\non-generic\obj\Debug\net8.0\non-generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\slagprac\slag\sivasree\doubts\ildasm\non-generic\obj\Debug\net8.0\non-generic.AssemblyInfoInputs.cache
+C:\slagprac\slag\sivasree\doubts\ildasm\non-generic\obj\Debug\net8.0\non-generic.AssemblyInfo.cs
+C:\slagprac\slag\sivasree\doubts\ildasm\non-generic\obj\Debug\net8.0\non-generic.csproj.CoreCompileInputs.cache
+C:\slagprac\slag\sivasree\doubts\ildasm\non-generic\obj\Debug\net8.0\non-generic.dll
+C:\slagprac\slag\sivasree\doubts\ildasm\non-generic\obj\Debug\net8.0\refint\non-generic.dll
+C:\slagprac\slag\sivasree\doubts\ildasm\non-generic\obj\Debug\net8.0\non-generic.pdb
+C:\slagprac\slag\sivasree\doubts\ildasm\non-generic\obj\Debug\net8.0\non-generic.genruntimeconfig.cache
+C:\slagprac\slag\sivasree\doubts\ildasm\non-generic\obj\Debug\net8.0\ref\non-generic.dll

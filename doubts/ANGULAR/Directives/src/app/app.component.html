@@ -1,0 +1,33 @@
+<!-- ngfor is used to iterate over the list of elements -->
+<!-- <div >
+  <p *ngFor="let i of ['1','2','3','4','5']">{{i}}</p>
+</div>
+<div >
+  <p *ngFor="let i of listOfGreetings">{{i}}</p>
+</div>
+<div >
+  <p *ngFor="let i of listOfObjects">{{i.age }}{{i.name}}</p>
+</div>  -->
+
+
+<!-- ngIf--based on condition we either add/remove DOM elements -->
+ <!-- by default ngIf returns false -->
+  <!-- <p *ngIf="">hey</p>
+ <p *ngIf="isEmpty != ''">I am not empty</p> -->
+
+
+
+ <!-- ngStyle---used to add css dynamically -->
+  <!-- <div *ngFor="let i of listOfObjects">
+    <p [ngStyle]="{'color':i.availableinStock?'green':'red','font-weight':'bold'}">{{i.availableinStock ? 'AVAILABLE':'NOT AVAILABLE'}}</p>
+  </div>
+-->
+
+  <!--ngClass -->
+   <!-- <p [ngClass]="{'btn':true,'btn-bg':false}">Submit</p> --> 
+
+
+
+   <!-- enabling the button and applying the styles based on the !searchText  is true or false -->
+<input [(ngModel)]="searchText">
+<button [ngClass]="{'btn':true,'btn-bg':!searchText}" [disabled]="!searchText">Submit</button>

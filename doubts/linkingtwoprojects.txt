@@ -1,0 +1,46 @@
+ -if there is no .sln file created implicitly then create it using the below command
+               dotnet new sln -n folderName
+ -in this diffAss is a class library application and SameAss is a console Application. ACCESSSPECIFIERS is the folder in
+   which we created DiffAss and SameAss. In the same hierarchy level as that of ACCESSSPECIFIERS folder we have to create 
+   a sln file and in that we have to add the DiffAss.csproj and SameAss.csproj files so that we can build/compile the  
+   projects at once. To run each project we have to use  "dotnet run "pathof.csprojfile" "
+         
+         dotnet sln add "#pathof.csprojfile"
+   
+
+    //folder hierarchy
+     {
+      >ACCESSSPECIFERS
+       > DiffAss              
+       > SameAss
+         accessspecifier.sln 
+     }  
+
+USE OF .SLN FILES for a single project and for grp of projects o=i n the hierarchy as above:
+  -if multiple projects are dependent on eachother, then order of execution of those projects is very imp. This will be taken care by .sln files.
+
+
+                                     SLN AND ADDING REFERENCE ARE TOTALLY TWO DIFFERENT CONCEPTS I.E; NO LINK BTW THEM
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-generally to use one project methods/varaiables/ctors...in other project we have to add reference of one into other
+   .dll,.dll       we can link( use <ItemGroup> tag for adding other .dll reference and to run present .dll use <outputType> )
+   .exe,.dll       we have to add reference of .dll in .exe or .exe in .dll
+   .exe,.exe       here to we have to add reference
+
+
+-How to add reference of one project into other?
+   There are 2 ways;
+   1)in .csproj file of .exe application 
+         <ItemGroup>
+          <ProjectReference Include="..\DiffAss\DiffAss.csproj" />  //path of other project .csproj file
+          </ItemGroup>
+   2)run the below command---even this command adds the above code(<ItemGroup>) in .csproj file
+        dotnet add SameAss/SameAss.csproj references DiffAss/DiffAss.csproj
+
+
+IN SUMMARY:
+  to use one project code in other project of any type 
+    1.add reference
+    2.if .dll add <outType> tag to run .dll and for .exe no need of any such.

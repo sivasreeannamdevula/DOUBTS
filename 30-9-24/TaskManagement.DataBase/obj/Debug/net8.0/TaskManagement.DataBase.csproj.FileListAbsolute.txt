@@ -1,0 +1,15 @@
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.DataBase\bin\Debug\net8.0\TaskManagement.DataBase.deps.json
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.DataBase\bin\Debug\net8.0\TaskManagement.DataBase.dll
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.DataBase\bin\Debug\net8.0\TaskManagement.DataBase.pdb
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.DataBase\bin\Debug\net8.0\TaskManagement.Utility.dll
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.DataBase\bin\Debug\net8.0\TaskManagement.Utility.pdb
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.DataBase\obj\Debug\net8.0\TaskManagement.DataBase.csproj.AssemblyReference.cache
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.DataBase\obj\Debug\net8.0\TaskManagement.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.DataBase\obj\Debug\net8.0\TaskManagement.DataBase.AssemblyInfoInputs.cache
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.DataBase\obj\Debug\net8.0\TaskManagement.DataBase.AssemblyInfo.cs
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.DataBase\obj\Debug\net8.0\TaskManagement.DataBase.csproj.CoreCompileInputs.cache
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.DataBase\obj\Debug\net8.0\TaskMana.B398A4F4.Up2Date
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.DataBase\obj\Debug\net8.0\TaskManagement.DataBase.dll
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.DataBase\obj\Debug\net8.0\refint\TaskManagement.DataBase.dll
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.DataBase\obj\Debug\net8.0\TaskManagement.DataBase.pdb
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.DataBase\obj\Debug\net8.0\ref\TaskManagement.DataBase.dll

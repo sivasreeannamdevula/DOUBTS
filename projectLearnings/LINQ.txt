@@ -1,0 +1,52 @@
+It provides a common syntax so that we can query from various data sources(entityframework, ado.net, collection of objects, xml document...) easily.
+
+in between we have LINQ PROVIDERS(sort of libraries) that converts the linq query to corresponding datasource understandable query.
+Examples of different LINQ PROVIDERS ARE
+1.Linq to objects          for collections
+2.linq to entities         entity framework
+3.linq to datasets         ado.net
+4.linq to sql              sql server
+5.linq to xml              for xml documents
+
+
+two syntaxes for linq(performance wise both are same)
+1.Query syntax(in turn gets converted to method syntax during compilation)
+2.method syntax/fluent syntax/lamda syntax
+
+
+
+IENUMERABLE VS IQUERYABLE:::
+
+namespace System.Collections;
+interface IEnumerable
+{
+   //IEnumerable interface returns an enumerator that has the following things that helps to iterate
+   //Reset() --pointer to points to before location of first element in the collection
+   //current --a property that returns current element in the collection
+   // movenext() --points to the next element
+   //foreach loop automatically uses the GetEnumerator method
+   public IEnumerator GetEnumerator();
+}
+
+
+IENUMERABLE: runs using client-side memory so less performance so suitable for in-memory objects
+             When querying data sources like databases, IEnumerable can be less efficient because it retrieves 
+             all the data from the database and then filters records in the client’s memory.
+             brings all the data and then applies filter
+
+IQueryable  : runs on server itself so suitable for larger datasets
+             brings the filtered data only
+
+
+
+
+where,select,orderby,groupby , firstordefault, count,sum,min,max....are all extension methods
+extension methods of IEnumerable are implemented in Enumerable class(hence it is static)
+
+
+
+
+
+
+
+

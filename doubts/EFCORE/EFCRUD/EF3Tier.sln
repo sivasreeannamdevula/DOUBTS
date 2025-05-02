@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ef3tier.DB", "Ef3tier.DB\Ef3tier.DB.csproj", "{2E6EE2F3-1D96-4AAC-8E82-E892C518F102}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ef3tier.Services", "Ef3tier.Services\Ef3tier.Services.csproj", "{A9A8F2B8-AE73-420A-944C-DFD7EE9B3B86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E6EE2F3-1D96-4AAC-8E82-E892C518F102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6EE2F3-1D96-4AAC-8E82-E892C518F102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6EE2F3-1D96-4AAC-8E82-E892C518F102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6EE2F3-1D96-4AAC-8E82-E892C518F102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9A8F2B8-AE73-420A-944C-DFD7EE9B3B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A8F2B8-AE73-420A-944C-DFD7EE9B3B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A8F2B8-AE73-420A-944C-DFD7EE9B3B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A8F2B8-AE73-420A-944C-DFD7EE9B3B86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA35D964-3131-4458-8A02-F0B95A09FD3A}
+	EndGlobalSection
+EndGlobal

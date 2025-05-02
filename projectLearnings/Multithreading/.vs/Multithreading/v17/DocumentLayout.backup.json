@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\slagprac\\slag\\sivasree\\projectLearnings\\Multithreading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A590645-F0B8-672D-E15A-C22C8A2E7124}|Multithreading.csproj|c:\\slagprac\\slag\\sivasree\\projectlearnings\\multithreading\\threadsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A590645-F0B8-672D-E15A-C22C8A2E7124}|Multithreading.csproj|solutionrelative:threadsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A590645-F0B8-672D-E15A-C22C8A2E7124}|Multithreading.csproj|c:\\slagprac\\slag\\sivasree\\projectlearnings\\multithreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A590645-F0B8-672D-E15A-C22C8A2E7124}|Multithreading.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThreadSample.cs",
+              "DocumentMoniker": "C:\\slagprac\\slag\\sivasree\\projectLearnings\\Multithreading\\ThreadSample.cs",
+              "RelativeDocumentMoniker": "ThreadSample.cs",
+              "ToolTip": "C:\\slagprac\\slag\\sivasree\\projectLearnings\\Multithreading\\ThreadSample.cs",
+              "RelativeToolTip": "ThreadSample.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:29:41.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\slagprac\\slag\\sivasree\\projectLearnings\\Multithreading\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\slagprac\\slag\\sivasree\\projectLearnings\\Multithreading\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:29:21.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1083,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1083,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

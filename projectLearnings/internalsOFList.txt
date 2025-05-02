@@ -1,0 +1,106 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+
+public class MyList : IEnumerable<int>
+{
+    private int[] _items;
+    private int _count;
+
+    public MyList()
+    {
+        _items = new int[10];  // Simulating internal array
+        _count = 0;
+    }
+
+    public void Add(int item)
+    {
+        if (_count >= _items.Length)
+        {
+            Array.Resize(ref _items, _items.Length * 2); // Resizing logic
+        }
+        _items[_count++] = item;
+    }
+
+    // Returns an enumerator for the list
+    public IEnumerator<int> GetEnumerator()
+    {
+        return new MyListEnumerator(_items, _count);
+    }
+
+    IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
+}
+
+
+
+
+
+
+public class MyListEnumerator : IEnumerator<int>
+{
+    private int[] _items;
+    private int _count;
+    private int _position = -1; // Starts before the first element
+
+    public MyListEnumerator(int[] items, int count)
+    {
+        _items = items;
+        _count = count;
+    }
+
+    // Returns the current element
+    public int Current
+    {
+        get
+        {
+            if (_position < 0 || _position >= _count)
+                throw new InvalidOperationException();
+            return _items[_position];
+        }
+    }
+
+    object IEnumerator.Current => Current; // Non-generic version
+
+    // Moves to the next element
+    public bool MoveNext()
+    {
+        _position++;
+        return _position < _count; // Returns false when out of bounds
+    }
+
+    // Resets enumerator to the initial state
+    public void Reset()
+    {
+        _position = -1;
+    }
+
+    // Dispose method (not needed for simple arrays)
+    public void Dispose() { }
+}
+
+
+
+class Program
+{
+    static void Main()
+    {
+        
+        MyList numbers = new MyList();                  //numbers object contains _items,count as private variables
+        numbers.Add(10);                                //upon adding count gets incremented
+        numbers.Add(20);
+        numbers.Add(30);
+
+        // Using foreach (calls GetEnumerator internally)
+        foreach (var num in numbers)
+        {
+            Console.WriteLine(num);
+        }
+
+        // Manual iteration using IEnumerator
+        IEnumerator<int> enumerator = numbers.GetEnumerator();          //here we are returning a MyListEnumerator with _items,_count and _pos=-1 gets created
+        while (enumerator.MoveNext())
+        {
+            Console.WriteLine(enumerator.Current);                      //we iterate over it to print the elements
+        }
+    }
+}

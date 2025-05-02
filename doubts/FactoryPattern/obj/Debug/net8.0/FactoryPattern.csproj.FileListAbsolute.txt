@@ -1,0 +1,14 @@
+C:\slagprac\slag\sivasree\doubts\FactoryPattern\bin\Debug\net8.0\FactoryPattern.exe
+C:\slagprac\slag\sivasree\doubts\FactoryPattern\bin\Debug\net8.0\FactoryPattern.deps.json
+C:\slagprac\slag\sivasree\doubts\FactoryPattern\bin\Debug\net8.0\FactoryPattern.runtimeconfig.json
+C:\slagprac\slag\sivasree\doubts\FactoryPattern\bin\Debug\net8.0\FactoryPattern.dll
+C:\slagprac\slag\sivasree\doubts\FactoryPattern\bin\Debug\net8.0\FactoryPattern.pdb
+C:\slagprac\slag\sivasree\doubts\FactoryPattern\obj\Debug\net8.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\slagprac\slag\sivasree\doubts\FactoryPattern\obj\Debug\net8.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\slagprac\slag\sivasree\doubts\FactoryPattern\obj\Debug\net8.0\FactoryPattern.AssemblyInfo.cs
+C:\slagprac\slag\sivasree\doubts\FactoryPattern\obj\Debug\net8.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\slagprac\slag\sivasree\doubts\FactoryPattern\obj\Debug\net8.0\FactoryPattern.dll
+C:\slagprac\slag\sivasree\doubts\FactoryPattern\obj\Debug\net8.0\refint\FactoryPattern.dll
+C:\slagprac\slag\sivasree\doubts\FactoryPattern\obj\Debug\net8.0\FactoryPattern.pdb
+C:\slagprac\slag\sivasree\doubts\FactoryPattern\obj\Debug\net8.0\FactoryPattern.genruntimeconfig.cache
+C:\slagprac\slag\sivasree\doubts\FactoryPattern\obj\Debug\net8.0\ref\FactoryPattern.dll

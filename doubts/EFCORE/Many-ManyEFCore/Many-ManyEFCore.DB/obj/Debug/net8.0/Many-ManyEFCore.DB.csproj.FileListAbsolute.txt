@@ -1,0 +1,14 @@
+C:\slagprac\slag\sivasree\doubts\Many-ManyEFCore\Many-ManyEFCore.DB\obj\Debug\net8.0\Many-ManyEFCore.DB.csproj.AssemblyReference.cache
+C:\slagprac\slag\sivasree\doubts\Many-ManyEFCore\Many-ManyEFCore.DB\obj\Debug\net8.0\Many-ManyEFCore.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\slagprac\slag\sivasree\doubts\Many-ManyEFCore\Many-ManyEFCore.DB\obj\Debug\net8.0\Many-ManyEFCore.DB.AssemblyInfoInputs.cache
+C:\slagprac\slag\sivasree\doubts\Many-ManyEFCore\Many-ManyEFCore.DB\obj\Debug\net8.0\Many-ManyEFCore.DB.AssemblyInfo.cs
+C:\slagprac\slag\sivasree\doubts\Many-ManyEFCore\Many-ManyEFCore.DB\obj\Debug\net8.0\Many-ManyEFCore.DB.csproj.CoreCompileInputs.cache
+C:\slagprac\slag\sivasree\doubts\Many-ManyEFCore\Many-ManyEFCore.DB\bin\Debug\net8.0\Many-ManyEFCore.DB.deps.json
+C:\slagprac\slag\sivasree\doubts\Many-ManyEFCore\Many-ManyEFCore.DB\bin\Debug\net8.0\Many-ManyEFCore.DB.runtimeconfig.json
+C:\slagprac\slag\sivasree\doubts\Many-ManyEFCore\Many-ManyEFCore.DB\bin\Debug\net8.0\Many-ManyEFCore.DB.dll
+C:\slagprac\slag\sivasree\doubts\Many-ManyEFCore\Many-ManyEFCore.DB\bin\Debug\net8.0\Many-ManyEFCore.DB.pdb
+C:\slagprac\slag\sivasree\doubts\Many-ManyEFCore\Many-ManyEFCore.DB\obj\Debug\net8.0\Many-ManyEFCore.DB.dll
+C:\slagprac\slag\sivasree\doubts\Many-ManyEFCore\Many-ManyEFCore.DB\obj\Debug\net8.0\refint\Many-ManyEFCore.DB.dll
+C:\slagprac\slag\sivasree\doubts\Many-ManyEFCore\Many-ManyEFCore.DB\obj\Debug\net8.0\Many-ManyEFCore.DB.pdb
+C:\slagprac\slag\sivasree\doubts\Many-ManyEFCore\Many-ManyEFCore.DB\obj\Debug\net8.0\Many-ManyEFCore.DB.genruntimeconfig.cache
+C:\slagprac\slag\sivasree\doubts\Many-ManyEFCore\Many-ManyEFCore.DB\obj\Debug\net8.0\ref\Many-ManyEFCore.DB.dll

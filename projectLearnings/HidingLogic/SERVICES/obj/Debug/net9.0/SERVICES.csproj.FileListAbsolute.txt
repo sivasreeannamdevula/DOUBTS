@@ -1,0 +1,5 @@
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\SERVICES\obj\Debug\net9.0\SERVICES.csproj.AssemblyReference.cache
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\SERVICES\obj\Debug\net9.0\SERVICES.GeneratedMSBuildEditorConfig.editorconfig
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\SERVICES\obj\Debug\net9.0\SERVICES.AssemblyInfoInputs.cache
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\SERVICES\obj\Debug\net9.0\SERVICES.AssemblyInfo.cs
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\SERVICES\obj\Debug\net9.0\SERVICES.csproj.CoreCompileInputs.cache

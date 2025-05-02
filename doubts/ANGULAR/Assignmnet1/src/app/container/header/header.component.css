@@ -1,0 +1,59 @@
+.header
+{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+}
+
+img
+{
+    height:90px;
+    weight:90px;
+}
+
+.logo
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.title
+{
+    padding-top:20px;
+    padding-left: 3px;
+    width:900px;
+    font-family: "Gidole", sans-serif;
+     font-weight:bolder;
+    
+     font-size: 35px;
+     margin-bottom: 0px;
+     padding-bottom: 0px;
+}
+
+.subtitle{
+    margin-top: 0px;
+    font-size: small;
+    padding-top: 0px;
+}
+
+.subtitle
+{
+  
+    color: rgb(7, 23, 248);
+}
+.search-flex
+{
+    display: flex;
+    
+    text-align: center;
+    margin-top:28px;
+}
+button{
+    background-color: rgb(7, 23, 248);
+    padding:3px 18px 3px;
+    color:white;
+    font-weight: bold;
+    border:0px;
+    border-radius: 5px;
+    margin-left: 10px;
+}

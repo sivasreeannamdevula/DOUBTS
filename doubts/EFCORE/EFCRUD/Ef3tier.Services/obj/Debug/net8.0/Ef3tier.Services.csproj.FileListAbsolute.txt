@@ -1,0 +1,15 @@
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.Services\bin\Debug\net8.0\Ef3tier.Services.deps.json
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.Services\bin\Debug\net8.0\Ef3tier.Services.dll
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.Services\bin\Debug\net8.0\Ef3tier.Services.pdb
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.Services\bin\Debug\net8.0\Ef3tier.DB.dll
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.Services\bin\Debug\net8.0\Ef3tier.DB.pdb
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.Services\obj\Debug\net8.0\Ef3tier.Services.csproj.AssemblyReference.cache
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.Services\obj\Debug\net8.0\Ef3tier.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.Services\obj\Debug\net8.0\Ef3tier.Services.AssemblyInfoInputs.cache
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.Services\obj\Debug\net8.0\Ef3tier.Services.AssemblyInfo.cs
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.Services\obj\Debug\net8.0\Ef3tier.Services.csproj.CoreCompileInputs.cache
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.Services\obj\Debug\net8.0\Ef3tier..76F71375.Up2Date
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.Services\obj\Debug\net8.0\Ef3tier.Services.dll
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.Services\obj\Debug\net8.0\refint\Ef3tier.Services.dll
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.Services\obj\Debug\net8.0\Ef3tier.Services.pdb
+C:\slagprac\slag\sivasree\doubts\EF3Tier\Ef3tier.Services\obj\Debug\net8.0\ref\Ef3tier.Services.dll

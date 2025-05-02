@@ -1,0 +1,17 @@
+<div>
+  <h1>I am from app-root</h1>
+  <!-- <stringinterpolation></stringinterpolation> -->
+  <!-- <propert-interpolation></propert-interpolation> -->
+   <!-- <eventbinidng></eventbinidng> -->
+  <!-- <app-ngmodule></app-ngmodule> -->
+
+  <app-child-of-app  [product]="product1"  [alias]="anil" (customevent)="ParentEvent($event)"></app-child-of-app>
+  <h1>from child:{{fromchild}}</h1>
+
+  <!-- TEMPLATE REFERENCE stores the reference for an element/directive/component on which we used it-->
+   <!-- creating a template reference variable on an html elemnet -->
+  <input #refvariable>
+  <button (click)="onclick(refvariable)">Submit</button> 
+
+  creating an
+</div>

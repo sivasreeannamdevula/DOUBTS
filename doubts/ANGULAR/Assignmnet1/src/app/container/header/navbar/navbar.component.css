@@ -1,0 +1,34 @@
+
+.navbar
+{
+    
+    background-color: skyblue;
+    display:flex;
+    flex-direction: column;
+}
+
+.box1
+{
+    display: flex;
+    flex-direction: row;
+    height:30px
+}
+.box
+{
+   
+    padding: 5px;
+    width:122px;
+}
+.box:hover
+{
+    background-color: rgb(7, 23, 248);
+    border-radius: 1.9px;
+    color:white;
+}
+
+.box2
+{
+    height:2px;
+    width: 100%;
+    background-color: rgb(7, 23, 248);
+}

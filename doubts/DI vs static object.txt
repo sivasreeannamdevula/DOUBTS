@@ -1,0 +1,45 @@
+The main importance of D.I is that it creates the instance only once.
+
+Don't you think we can achieve the same by using static object creation?
+
+Yes but there will be tight coupling in that case because--->for suppose we have 
+100 controllers for each (Managers, Employees and Trainees) and for each class and in each controller we have to write the below code.
+ 
+   static Managers m=new Managers();
+
+as functionalities for both manager and employee are same and we have to change GetByManageriID to GetbyEmployeeID then in every controller we have to edit the line  " static Managers m=new Managers() ".
+
+instead if use DI then we just need to change in program.cs
+
+builder.Services.AddSingleton< Interface, Manager/Emlpoyee/Trainee >
+ 
+
+
+
+
+
+IOC is like a restaurant, where the chef (component) doesn't control the ingredients (dependencies). Instead, the ingredients are provided by the restaurant owner (IoC container).
+
+
+DI is like a specific way of delivering the ingredients to the chef, such as through a kitchen door (constructor injection) or a pantry (property injection).
+
+
+
+
+
+
+
+To inject specific type of object for each controller:
+
+
+builder.Services.AddKeyedSingleton<ITeamInterface,IndiaTeamStorage>("india");
+ 
+ private readonly ITeamInterface _teamStorage;
+ 
+        public IndiaController([FromKeyedServices("india")]ITeamInterface teamStorage)
+        {
+            _teamStorage = teamStorage;
+        }
+ 
+
+

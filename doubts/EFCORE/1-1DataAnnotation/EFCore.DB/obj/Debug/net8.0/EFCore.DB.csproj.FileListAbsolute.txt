@@ -1,0 +1,14 @@
+C:\slagprac\slag\sivasree\doubts\EFCore3Tier\EFCore.DB\bin\Debug\net8.0\EFCore.DB.deps.json
+C:\slagprac\slag\sivasree\doubts\EFCore3Tier\EFCore.DB\bin\Debug\net8.0\EFCore.DB.runtimeconfig.json
+C:\slagprac\slag\sivasree\doubts\EFCore3Tier\EFCore.DB\bin\Debug\net8.0\EFCore.DB.dll
+C:\slagprac\slag\sivasree\doubts\EFCore3Tier\EFCore.DB\bin\Debug\net8.0\EFCore.DB.pdb
+C:\slagprac\slag\sivasree\doubts\EFCore3Tier\EFCore.DB\obj\Debug\net8.0\EFCore.DB.csproj.AssemblyReference.cache
+C:\slagprac\slag\sivasree\doubts\EFCore3Tier\EFCore.DB\obj\Debug\net8.0\EFCore.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\slagprac\slag\sivasree\doubts\EFCore3Tier\EFCore.DB\obj\Debug\net8.0\EFCore.DB.AssemblyInfoInputs.cache
+C:\slagprac\slag\sivasree\doubts\EFCore3Tier\EFCore.DB\obj\Debug\net8.0\EFCore.DB.AssemblyInfo.cs
+C:\slagprac\slag\sivasree\doubts\EFCore3Tier\EFCore.DB\obj\Debug\net8.0\EFCore.DB.csproj.CoreCompileInputs.cache
+C:\slagprac\slag\sivasree\doubts\EFCore3Tier\EFCore.DB\obj\Debug\net8.0\EFCore.DB.dll
+C:\slagprac\slag\sivasree\doubts\EFCore3Tier\EFCore.DB\obj\Debug\net8.0\refint\EFCore.DB.dll
+C:\slagprac\slag\sivasree\doubts\EFCore3Tier\EFCore.DB\obj\Debug\net8.0\EFCore.DB.pdb
+C:\slagprac\slag\sivasree\doubts\EFCore3Tier\EFCore.DB\obj\Debug\net8.0\EFCore.DB.genruntimeconfig.cache
+C:\slagprac\slag\sivasree\doubts\EFCore3Tier\EFCore.DB\obj\Debug\net8.0\ref\EFCore.DB.dll

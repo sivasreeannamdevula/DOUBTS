@@ -1,0 +1,15 @@
+C:\slagprac\slag\sivasree\projectLearnings\Multithreading\bin\Debug\net9.0\Multithreading.exe
+C:\slagprac\slag\sivasree\projectLearnings\Multithreading\bin\Debug\net9.0\Multithreading.deps.json
+C:\slagprac\slag\sivasree\projectLearnings\Multithreading\bin\Debug\net9.0\Multithreading.runtimeconfig.json
+C:\slagprac\slag\sivasree\projectLearnings\Multithreading\bin\Debug\net9.0\Multithreading.dll
+C:\slagprac\slag\sivasree\projectLearnings\Multithreading\bin\Debug\net9.0\Multithreading.pdb
+C:\slagprac\slag\sivasree\projectLearnings\Multithreading\obj\Debug\net9.0\Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\slagprac\slag\sivasree\projectLearnings\Multithreading\obj\Debug\net9.0\Multithreading.AssemblyInfoInputs.cache
+C:\slagprac\slag\sivasree\projectLearnings\Multithreading\obj\Debug\net9.0\Multithreading.AssemblyInfo.cs
+C:\slagprac\slag\sivasree\projectLearnings\Multithreading\obj\Debug\net9.0\Multithreading.csproj.CoreCompileInputs.cache
+C:\slagprac\slag\sivasree\projectLearnings\Multithreading\obj\Debug\net9.0\Multithreading.sourcelink.json
+C:\slagprac\slag\sivasree\projectLearnings\Multithreading\obj\Debug\net9.0\Multithreading.dll
+C:\slagprac\slag\sivasree\projectLearnings\Multithreading\obj\Debug\net9.0\refint\Multithreading.dll
+C:\slagprac\slag\sivasree\projectLearnings\Multithreading\obj\Debug\net9.0\Multithreading.pdb
+C:\slagprac\slag\sivasree\projectLearnings\Multithreading\obj\Debug\net9.0\Multithreading.genruntimeconfig.cache
+C:\slagprac\slag\sivasree\projectLearnings\Multithreading\obj\Debug\net9.0\ref\Multithreading.dll

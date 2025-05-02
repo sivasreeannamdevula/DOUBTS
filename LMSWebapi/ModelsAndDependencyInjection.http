@@ -1,0 +1,6 @@
+@ModelsAndDependencyInjection_HostAddress = http://localhost:5226
+
+GET {{ModelsAndDependencyInjection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

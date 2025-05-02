@@ -1,0 +1,14 @@
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\DB\obj\Debug\net9.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\DB\obj\Debug\net9.0\DB.AssemblyInfoInputs.cache
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\DB\obj\Debug\net9.0\DB.AssemblyInfo.cs
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\DB\obj\Debug\net9.0\DB.csproj.CoreCompileInputs.cache
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\DB\obj\Debug\net9.0\DB.csproj.AssemblyReference.cache
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\DB\bin\Debug\net9.0\DB.deps.json
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\DB\bin\Debug\net9.0\DB.dll
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\DB\bin\Debug\net9.0\DB.pdb
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\DB\obj\Debug\net9.0\DB.dll
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\DB\obj\Debug\net9.0\refint\DB.dll
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\DB\obj\Debug\net9.0\DB.pdb
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\DB\obj\Debug\net9.0\ref\DB.dll
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\DB\bin\Debug\net9.0\DB.runtimeconfig.json
+C:\slagprac\slag\sivasree\projectLearnings\HidingLogic\DB\obj\Debug\net9.0\DB.genruntimeconfig.cache

@@ -1,0 +1,66 @@
+//DIFFERENT NAMES UNTTE LIKE USERNAME AND USER_PRINCIPLE_NAME 
+CreateMap<Models.DB.User, Models.DTO.UserDetails>()
+     .ForMember(dest => dest.UserName,
+    opt => opt.MapFrom(src => src.User_Principal_Name));
+
+
+
+
+
+//WE CAN WRITE OUR OWN CUSTOM MAPPING IN THE ENTITY ITSELF
+namespace EmbadedAnalytics.ServiceDefaults.Models.DB
+{
+    public class Dataset:EntityBase
+    {
+        [Key]
+        public int Id { get; set; }
+        public Guid DatasetId { get; set; } 
+        public string Name { get; set; }
+        public int WorkspaceID { get; set; }
+        public Workspace Workspace { get; set; }
+        public List<Report> Reports { get; set; }
+
+        public Microsoft.PowerBI.Api.Models.Dataset MapToDataset()
+        {
+            return new Microsoft.PowerBI.Api.Models.Dataset
+            {
+                Id = this.DatasetId.ToString(),
+                Name = this.Name
+
+            };
+        }
+    }
+
+
+//INSTEAD OF DEFINING IN DATACONTEXT WE CAN DEFINE IN EVERY ENTITY TO MAKE IT MORE MODULAR
+    public class DatasetEntityConfiguration : IEntityTypeConfiguration<Dataset>
+    {
+        public void Configure(EntityTypeBuilder<Dataset> builder)
+        {
+            // Define Primary Key
+            builder.HasKey(u => u.Id);
+
+            builder.HasOne(u => u.Workspace)
+             .WithMany(a => a.Datasets)
+             .HasForeignKey(a => a.WorkspaceID)
+             .OnDelete(DeleteBehavior.Cascade);
+            
+
+            builder.ToTable("Dataset");
+        }
+    }
+}
+
+
+using try,catch,finally (in our case we used when we are not able to connect to workspace)
+
+
+
+ public async Task<List<(Guid DatasetId, Guid WorkspaceId)>> GetReport(Guid reportID)
+ {
+    return (await _dbSet.Where(x=>x.ReportID==reportID).Include(x=>x.Dataset)
+                    .Select(x => new { x.Dataset.DatasetId, x.Dataset.Workspace.WorkspaceID })
+                     .ToListAsync())
+                     .Select(x => (x.DatasetId, x.WorkspaceID))
+                      .ToList();
+ }

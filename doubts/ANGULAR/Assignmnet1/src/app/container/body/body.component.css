@@ -1,0 +1,104 @@
+
+.white-body
+{
+    
+    
+     border-radius: 5px;
+    background-color: white;
+    height:496px;
+    width:99%;
+    margin:5px;
+    display: flex;
+    justify-content: center;
+}
+.inner-greycontainer
+{
+   border:solid rgba(192, 185, 185, 0.712) 2px;
+   
+   border-radius: 8px;
+   height:470px;
+   width: 98.5%;
+   margin: 9px;
+   display: flex;
+   flex-direction: row;
+
+}
+
+.left
+{
+  width:25%;
+  border:solid 2px rgba(192, 185, 185, 0.712);
+  display: flex;
+  flex-direction: column;
+}
+.right
+{
+  
+    width:75%;
+    border:solid 2px rgba(192, 185, 185, 0.712);
+}
+
+.top
+{
+   border:solid rgb(3, 20, 248) 3px;  
+   margin:8px 1px 2px 1px;
+   border-radius: 9px;
+   height:130px;
+   width:97%;
+  
+
+}
+.middle
+{
+    border:solid rgb(3, 20, 248)  3px;
+     margin:8px 1px 2px 1px;
+   opacity: 1;
+   height:130px;
+    width:97%;
+    border-radius: 9px;
+    
+}
+.bottom
+{
+    border:solid rgb(7, 23, 248) 3px;
+    opacity: 1;
+    margin:8px 1px 2px 1px;
+   border-radius: 9px;
+   height:130px;
+    width:97%;
+   
+}
+
+table{
+    margin:4px;
+    height:450px;
+    width:99%;
+}
+
+.filter
+{
+    color:white;
+    background-color: rgb(7, 23, 248);
+    text-align: start;
+}
+
+.MyTasks
+{
+    color:rgb(7, 23, 248);
+    text-align: start;
+    border: solid rgb(7, 23, 248) 3px;
+}
+
+.heading
+{
+    text-align: center;
+}
+tbody{
+    text-align: center;
+}
+
+tbody tr{
+    padding: 0px;
+}
+
+

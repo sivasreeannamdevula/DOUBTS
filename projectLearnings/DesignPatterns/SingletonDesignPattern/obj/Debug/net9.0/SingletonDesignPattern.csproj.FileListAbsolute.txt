@@ -1,0 +1,14 @@
+C:\Users\sivasri.annamdevula\Desktop\doubts\DesignPatterns\SingletonDesignPattern\bin\Debug\net9.0\SingletonDesignPattern.exe
+C:\Users\sivasri.annamdevula\Desktop\doubts\DesignPatterns\SingletonDesignPattern\bin\Debug\net9.0\SingletonDesignPattern.deps.json
+C:\Users\sivasri.annamdevula\Desktop\doubts\DesignPatterns\SingletonDesignPattern\bin\Debug\net9.0\SingletonDesignPattern.runtimeconfig.json
+C:\Users\sivasri.annamdevula\Desktop\doubts\DesignPatterns\SingletonDesignPattern\bin\Debug\net9.0\SingletonDesignPattern.dll
+C:\Users\sivasri.annamdevula\Desktop\doubts\DesignPatterns\SingletonDesignPattern\bin\Debug\net9.0\SingletonDesignPattern.pdb
+C:\Users\sivasri.annamdevula\Desktop\doubts\DesignPatterns\SingletonDesignPattern\obj\Debug\net9.0\SingletonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivasri.annamdevula\Desktop\doubts\DesignPatterns\SingletonDesignPattern\obj\Debug\net9.0\SingletonDesignPattern.AssemblyInfoInputs.cache
+C:\Users\sivasri.annamdevula\Desktop\doubts\DesignPatterns\SingletonDesignPattern\obj\Debug\net9.0\SingletonDesignPattern.AssemblyInfo.cs
+C:\Users\sivasri.annamdevula\Desktop\doubts\DesignPatterns\SingletonDesignPattern\obj\Debug\net9.0\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\sivasri.annamdevula\Desktop\doubts\DesignPatterns\SingletonDesignPattern\obj\Debug\net9.0\SingletonDesignPattern.dll
+C:\Users\sivasri.annamdevula\Desktop\doubts\DesignPatterns\SingletonDesignPattern\obj\Debug\net9.0\refint\SingletonDesignPattern.dll
+C:\Users\sivasri.annamdevula\Desktop\doubts\DesignPatterns\SingletonDesignPattern\obj\Debug\net9.0\SingletonDesignPattern.pdb
+C:\Users\sivasri.annamdevula\Desktop\doubts\DesignPatterns\SingletonDesignPattern\obj\Debug\net9.0\SingletonDesignPattern.genruntimeconfig.cache
+C:\Users\sivasri.annamdevula\Desktop\doubts\DesignPatterns\SingletonDesignPattern\obj\Debug\net9.0\ref\SingletonDesignPattern.dll

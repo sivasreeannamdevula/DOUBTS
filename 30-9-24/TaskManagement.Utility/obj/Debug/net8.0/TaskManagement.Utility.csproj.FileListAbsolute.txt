@@ -1,0 +1,11 @@
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.Utility\bin\Debug\net8.0\TaskManagement.Utility.deps.json
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.Utility\bin\Debug\net8.0\TaskManagement.Utility.dll
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.Utility\bin\Debug\net8.0\TaskManagement.Utility.pdb
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.Utility\obj\Debug\net8.0\TaskManagement.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.Utility\obj\Debug\net8.0\TaskManagement.Utility.AssemblyInfoInputs.cache
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.Utility\obj\Debug\net8.0\TaskManagement.Utility.AssemblyInfo.cs
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.Utility\obj\Debug\net8.0\TaskManagement.Utility.csproj.CoreCompileInputs.cache
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.Utility\obj\Debug\net8.0\TaskManagement.Utility.dll
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.Utility\obj\Debug\net8.0\refint\TaskManagement.Utility.dll
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.Utility\obj\Debug\net8.0\TaskManagement.Utility.pdb
+C:\slagprac\slag\sivasree\30-9-24\TaskManagement.Utility\obj\Debug\net8.0\ref\TaskManagement.Utility.dll

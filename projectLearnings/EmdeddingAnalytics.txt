@@ -1,0 +1,7 @@
+entityframework Transaction:
+
+.savechanges------>   means begin transaction and complete warps-up all the operations before this line into the transaction and then commits/rollbacks
+                      ila cheyyatam valla parthi savechanges ki transaction start ayyi malli end avvudhi.So multiple savechanges ki okate transaction initiate avvali 
+                      ante we have to go for the below approach
+
+using(var 

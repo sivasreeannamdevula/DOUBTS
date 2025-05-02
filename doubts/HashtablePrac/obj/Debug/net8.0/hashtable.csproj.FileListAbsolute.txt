@@ -1,0 +1,14 @@
+C:\slagprac\slag\sivasree\doubts\hashtable\bin\Debug\net8.0\hashtable.exe
+C:\slagprac\slag\sivasree\doubts\hashtable\bin\Debug\net8.0\hashtable.deps.json
+C:\slagprac\slag\sivasree\doubts\hashtable\bin\Debug\net8.0\hashtable.runtimeconfig.json
+C:\slagprac\slag\sivasree\doubts\hashtable\bin\Debug\net8.0\hashtable.dll
+C:\slagprac\slag\sivasree\doubts\hashtable\bin\Debug\net8.0\hashtable.pdb
+C:\slagprac\slag\sivasree\doubts\hashtable\obj\Debug\net8.0\hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\slagprac\slag\sivasree\doubts\hashtable\obj\Debug\net8.0\hashtable.AssemblyInfoInputs.cache
+C:\slagprac\slag\sivasree\doubts\hashtable\obj\Debug\net8.0\hashtable.AssemblyInfo.cs
+C:\slagprac\slag\sivasree\doubts\hashtable\obj\Debug\net8.0\hashtable.csproj.CoreCompileInputs.cache
+C:\slagprac\slag\sivasree\doubts\hashtable\obj\Debug\net8.0\hashtable.dll
+C:\slagprac\slag\sivasree\doubts\hashtable\obj\Debug\net8.0\refint\hashtable.dll
+C:\slagprac\slag\sivasree\doubts\hashtable\obj\Debug\net8.0\hashtable.pdb
+C:\slagprac\slag\sivasree\doubts\hashtable\obj\Debug\net8.0\hashtable.genruntimeconfig.cache
+C:\slagprac\slag\sivasree\doubts\hashtable\obj\Debug\net8.0\ref\hashtable.dll

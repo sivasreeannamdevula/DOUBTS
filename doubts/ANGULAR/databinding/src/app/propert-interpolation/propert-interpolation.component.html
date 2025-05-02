@@ -1,0 +1,13 @@
+<img src={{path}}>
+<img [src]="path">
+
+<!-- for many properties we can either use stringinterpolation or property binidng but for some like disabled,checked,hidden
+we have to use property binidng as string interpolation doesn't work-->
+<button [disabled]="x<0">submit</button>
+<br>
+<input bind-value="name">
+
+
+<!-- ATTRIBUTE BINDING --for attributes we acnnot use property binding so we have to use attribute binding as below-->
+<br>
+<input bind-value="name" [attr.aria-hidden]="true">

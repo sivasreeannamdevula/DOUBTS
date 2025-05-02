@@ -1,0 +1,14 @@
+C:\slagprac\slag\sivasree\doubts\MultiThreading\JoinIsAlive\bin\Debug\net8.0\JoinIsAlive.exe
+C:\slagprac\slag\sivasree\doubts\MultiThreading\JoinIsAlive\bin\Debug\net8.0\JoinIsAlive.deps.json
+C:\slagprac\slag\sivasree\doubts\MultiThreading\JoinIsAlive\bin\Debug\net8.0\JoinIsAlive.runtimeconfig.json
+C:\slagprac\slag\sivasree\doubts\MultiThreading\JoinIsAlive\bin\Debug\net8.0\JoinIsAlive.dll
+C:\slagprac\slag\sivasree\doubts\MultiThreading\JoinIsAlive\bin\Debug\net8.0\JoinIsAlive.pdb
+C:\slagprac\slag\sivasree\doubts\MultiThreading\JoinIsAlive\obj\Debug\net8.0\JoinIsAlive.GeneratedMSBuildEditorConfig.editorconfig
+C:\slagprac\slag\sivasree\doubts\MultiThreading\JoinIsAlive\obj\Debug\net8.0\JoinIsAlive.AssemblyInfoInputs.cache
+C:\slagprac\slag\sivasree\doubts\MultiThreading\JoinIsAlive\obj\Debug\net8.0\JoinIsAlive.AssemblyInfo.cs
+C:\slagprac\slag\sivasree\doubts\MultiThreading\JoinIsAlive\obj\Debug\net8.0\JoinIsAlive.csproj.CoreCompileInputs.cache
+C:\slagprac\slag\sivasree\doubts\MultiThreading\JoinIsAlive\obj\Debug\net8.0\JoinIsAlive.dll
+C:\slagprac\slag\sivasree\doubts\MultiThreading\JoinIsAlive\obj\Debug\net8.0\refint\JoinIsAlive.dll
+C:\slagprac\slag\sivasree\doubts\MultiThreading\JoinIsAlive\obj\Debug\net8.0\JoinIsAlive.pdb
+C:\slagprac\slag\sivasree\doubts\MultiThreading\JoinIsAlive\obj\Debug\net8.0\JoinIsAlive.genruntimeconfig.cache
+C:\slagprac\slag\sivasree\doubts\MultiThreading\JoinIsAlive\obj\Debug\net8.0\ref\JoinIsAlive.dll

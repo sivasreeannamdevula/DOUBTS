@@ -36,7 +36,7 @@ class Delegate1
 
 
         System.Console.WriteLine(d.Target);                  //-->returns NUll if static method else ClassName of last method 
-                                                             //int invocationlist
+                                                             //in invocationlist
                 
         d+=Divide;
         d+=Multiply;

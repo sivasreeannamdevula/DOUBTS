@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\slagprac\\slag\\sivasree\\doubts\\Delegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E4233F-A7F9-4A13-BF0F-B6EB0A9AF422}|Delegates.csproj|c:\\slagprac\\slag\\sivasree\\doubts\\delegates\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E4233F-A7F9-4A13-BF0F-B6EB0A9AF422}|Delegates.csproj|solutionrelative:delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E4233F-A7F9-4A13-BF0F-B6EB0A9AF422}|Delegates.csproj|c:\\slagprac\\slag\\sivasree\\doubts\\delegates\\anonymousmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E4233F-A7F9-4A13-BF0F-B6EB0A9AF422}|Delegates.csproj|solutionrelative:anonymousmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E4233F-A7F9-4A13-BF0F-B6EB0A9AF422}|Delegates.csproj|c:\\slagprac\\slag\\sivasree\\doubts\\delegates\\genericdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E4233F-A7F9-4A13-BF0F-B6EB0A9AF422}|Delegates.csproj|solutionrelative:genericdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnonymousMethod.cs",
+              "DocumentMoniker": "C:\\slagprac\\slag\\sivasree\\doubts\\Delegates\\AnonymousMethod.cs",
+              "RelativeDocumentMoniker": "AnonymousMethod.cs",
+              "ToolTip": "C:\\slagprac\\slag\\sivasree\\doubts\\Delegates\\AnonymousMethod.cs",
+              "RelativeToolTip": "AnonymousMethod.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:53:03.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericDelegate.cs",
+              "DocumentMoniker": "C:\\slagprac\\slag\\sivasree\\doubts\\Delegates\\GenericDelegate.cs",
+              "RelativeDocumentMoniker": "GenericDelegate.cs",
+              "ToolTip": "C:\\slagprac\\slag\\sivasree\\doubts\\Delegates\\GenericDelegate.cs",
+              "RelativeToolTip": "GenericDelegate.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:52:57.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delegate.cs",
+              "DocumentMoniker": "C:\\slagprac\\slag\\sivasree\\doubts\\Delegates\\Delegate.cs",
+              "RelativeDocumentMoniker": "Delegate.cs",
+              "ToolTip": "C:\\slagprac\\slag\\sivasree\\doubts\\Delegates\\Delegate.cs",
+              "RelativeToolTip": "Delegate.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAkwCYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:49:32.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1083,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1083,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

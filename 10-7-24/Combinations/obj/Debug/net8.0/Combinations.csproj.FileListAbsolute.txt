@@ -1,0 +1,14 @@
+C:\slagprac\slag\sivasree\doubts\Combinations\bin\Debug\net8.0\Combinations.exe
+C:\slagprac\slag\sivasree\doubts\Combinations\bin\Debug\net8.0\Combinations.deps.json
+C:\slagprac\slag\sivasree\doubts\Combinations\bin\Debug\net8.0\Combinations.runtimeconfig.json
+C:\slagprac\slag\sivasree\doubts\Combinations\bin\Debug\net8.0\Combinations.dll
+C:\slagprac\slag\sivasree\doubts\Combinations\bin\Debug\net8.0\Combinations.pdb
+C:\slagprac\slag\sivasree\doubts\Combinations\obj\Debug\net8.0\Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\slagprac\slag\sivasree\doubts\Combinations\obj\Debug\net8.0\Combinations.AssemblyInfoInputs.cache
+C:\slagprac\slag\sivasree\doubts\Combinations\obj\Debug\net8.0\Combinations.AssemblyInfo.cs
+C:\slagprac\slag\sivasree\doubts\Combinations\obj\Debug\net8.0\Combinations.csproj.CoreCompileInputs.cache
+C:\slagprac\slag\sivasree\doubts\Combinations\obj\Debug\net8.0\Combinations.dll
+C:\slagprac\slag\sivasree\doubts\Combinations\obj\Debug\net8.0\refint\Combinations.dll
+C:\slagprac\slag\sivasree\doubts\Combinations\obj\Debug\net8.0\Combinations.pdb
+C:\slagprac\slag\sivasree\doubts\Combinations\obj\Debug\net8.0\Combinations.genruntimeconfig.cache
+C:\slagprac\slag\sivasree\doubts\Combinations\obj\Debug\net8.0\ref\Combinations.dll
